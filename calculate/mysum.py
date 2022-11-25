@@ -1,2 +1,2 @@
-def mysum(a,b):
+def my sum(a,b):
     return a + b
